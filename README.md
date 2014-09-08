@@ -1,5 +1,5 @@
 #CCLAB02 : Javascript Libraries + JQuery
-
+Written By Alex Samuel
 ***jQuery*** *is a Javascript Library helpful for document (html) manipulation, event handling, Ajax calls and animations. You treat it the same way you treat any other library. Another great library (that could be a good next step) in <a href="http://underscorejs.org/">UnderscoreJS</a>.*
 
 ###Review *NEW* File Structure
